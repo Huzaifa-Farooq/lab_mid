@@ -17,4 +17,4 @@ jobs:
         run: docker build -t app .
 
       - name: Run Docker container
-        run: docker run 
+        run: docker run app
