@@ -1,4 +1,4 @@
-name: Run Python Script
+name: My Workflow
 
 on:
   push:
